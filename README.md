@@ -1,6 +1,6 @@
 # Scam Careers
 
-Scam Careers is a web app for streamlined job searching, connecting you with the latest and most relevant job listings effortlessly. Whether you're a seasoned professional or just starting your career journey, Scam Creers simplifies the job hunting process, providing you with a user-friendly platform to discover, apply, and track your job applications all in one place. Explore diverse opportunities, set personalized preferences, and take the next step in your career with JobSpot. Your dream job is just a tap away!
+Scam Careers is a web app for streamlined job searching, connecting you with the latest and most relevant job listings effortlessly. Whether you're a seasoned professional or just starting your career journey, Scam Careers simplifies the job hunting process, providing you with a user-friendly platform to discover, apply, and track your job applications all in one place. Your dream job is just a tap away!
 
 ## Key Features:
 
